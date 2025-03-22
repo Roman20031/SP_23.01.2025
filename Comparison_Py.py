@@ -10,4 +10,4 @@ function_example()
 # float: Desetinná čísla (např. 20.06).
 # boolean: Pravdivostní hodnoty (True nebo False).
 
-#Roman Demianenko     Asi to vlastně je to co jsem měl za úkol z minule hodiny.(Vytvořít jakukoliv funkce a zkusit popsat datove typy)
+#Roman Demianenko     Asi to vlastně je to co jsem měl za úkol z minule hodiny.(Vytvořít jakukoliv funkce a zkusit popsat datove typy).
